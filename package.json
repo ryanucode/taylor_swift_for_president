@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "webpack": "1.x",
+    "uglify-js": "git://github.com/mishoo/UglifyJS2#harmony"
+  }
+}
